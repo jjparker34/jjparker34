@@ -1,7 +1,7 @@
 ### Hey I'm JJ Parker! 👋
 
 - 🐻 Baylor MIS Student
-- 📊 Interseted in Data Science and Visualization!
+- 📊 Interested in Data Science and Visualization!
 - 💬 Ask me about my Fantasy Football Team!
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=jjparker34&show_icons=true&layout=compact&theme=cobalt&count_private=true&hide_rank=true"/>
