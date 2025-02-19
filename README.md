@@ -1,7 +1,7 @@
 ### Hey I'm JJ Parker! 👋
 
-Ball Knower:
-![image](https://github.com/user-attachments/assets/d3058e0e-b99c-43d2-ac62-ea166a35a146)
+<img src="https://github.com/user-attachments/assets/d3058e0e-b99c-43d2-ac62-ea166a35a146" alt="Ball Knower" width="200"/>
+yup
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=jjparker34&show_icons=true&layout=compact&theme=cobalt&count_private=true&hide_rank=true"/>
